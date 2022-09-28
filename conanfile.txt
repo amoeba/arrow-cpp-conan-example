@@ -1,0 +1,7 @@
+[requires]
+arrow/10.0.0
+protobuf/3.21.4
+openssl/1.1.1q
+
+[generators]
+cmake

@@ -12,6 +12,7 @@ This specific example builds libarrow with:
 - A source checkout of the [arrow](https://github.com/apache/arrow) repository
 - A C++ compiler
 - cmake
+- conan
 
 ## Building
 
